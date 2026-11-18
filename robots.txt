@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hriel123.github.io/Portifolio/sitemap.xml
+Sitemap: https://hriel123.github.io/jlvariedades-/sitemap.xml
